@@ -1,2 +1,2 @@
-usuario: agarrido@agarquitectura.es
-clave: Quilla2502Quilla
+usuario: "correo electronico sin comillas"
+clave: "Clave sin comillas"
