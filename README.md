@@ -16,3 +16,5 @@ jlrpy de Python, ha dejado de funcionar.
 Esto ya ha pasado otras veces y su creador ha conseguido solucionarlo.
 Pero esta vez está pasando mucho tiempo. Aunque no desconfío en que finalmente lo conseguirá
 Seguro que cuando lo solucione vuelven a funcionar mis programas.
+
+Based on this REPO: https://github.com/ardevd/jlrpy
